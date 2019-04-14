@@ -1,18 +1,18 @@
 /* THE TEAM */
   Company: CIS 152
-  Website: josephgearlds.github.io
+  Website: josephgearlds.github.io/partnerproject
   Contact: josephjames73@live.com
 
-  Project Manager: Joseph Gearlds
+  Project Manager: Joseph Gearlds & Micheal Dalton
   Contact: josephjames73@live.com
 
-  Lead Developer: Joseph Gearlds
+  Lead Developer: Joseph Gearlds & Micheal Dalton
   Contact: josephjames73@live.com
 
-  Web Designer: Joseph Gearlds
+  Web Designer: Joseph Gearlds & Micheal Dalton
   Contact: josephjames73@live.com
 
 /* SITE DETAILS */
- Url: josephgearlds.github.io
- Date Published: 12/10/2018
- Date of Latest Update: 12/10/2018
+ Url: josephgearlds.github.io/partnerproject
+ Date Published: 4/14/2019
+ Date of Latest Update: 11/21/2018
